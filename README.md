@@ -3,21 +3,11 @@
 
 ![logo](https://telegra.ph/file/ec3f80f5d691a5af878da.jpg)
 
-    Your Telegram account may get banned.
-    I am not responsible for any improper use of this bot
-    This bot is intended for the purpose of having fun with memes,
-    as well as efficiently managing groups.
-    You ended up spamming groups, getting reported left and right,
-    and you ended up in a Finale Battle with Telegram and at the end
-    Telegram Team deleted your account?
-    And after that, then you pointed your fingers at us
-    for getting your account deleted?
-    I will be rolling on the floor laughing at you.
-    No personal support will be provided/I won't spoonfeed. If you need help ask in 
-    support group mentioned below or ask your friend.
-    Open issues if you think there's a bug/problem.
-    Open pr if you think you can improve the existing code.
-    #stayremixed
+    
+    WARNING : Your telegram account might get banned.
+    Iam not responsible if anything happens to u or ur tele acc. 
+    have fun ^_^
+    #stay_remix
 
 ## How To Host?
 
